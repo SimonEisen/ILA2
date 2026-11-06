@@ -28,3 +28,4 @@
 - [ ] Ich Bin Eigentlich fertig mit mein Portfolio aber ich moechte trotzdem einwenig daran arbeiten man kann immer was verbessern.
 - [ ] Ich will meine sachen Auf meinen Laptop Sortieren (Hab ein Chaos)
 - [ ] Ich will will einwenig rein schauen in Apps entwicklung (Android Studio)
+- [ ] Vieleicht noch einwenig in Javascript reinschauen.
