@@ -24,8 +24,13 @@
 ## 3. Tag - 06.11.2026
 
 ## Meine Ziele
-- [ ] Ich hab das Thema von Kryptologie interessant gefunden moechte daran weiter Arbeiten mit Echarri.
-- [ ] Ich Bin Eigentlich fertig mit mein Portfolio aber ich moechte trotzdem einwenig daran arbeiten man kann immer was verbessern.
-- [ ] Ich will meine sachen Auf meinen Laptop Sortieren (Hab ein Chaos)
-- [ ] Ich will will einwenig rein schauen in Apps entwicklung (Android Studio)
-- [ ] Vieleicht noch einwenig in Javascript reinschauen.
+- [x] Ich hab das Thema von Kryptologie interessant gefunden moechte daran weiter Arbeiten mit Echarri.
+- [x] Ich Bin Eigentlich fertig mit mein Portfolio aber ich moechte trotzdem einwenig daran arbeiten man kann immer was verbessern.
+- [x] Ich will meine sachen Auf meinen Laptop Sortieren (Hab ein Chaos)
+- [x] Ich will will einwenig rein schauen in Apps entwicklung (Android Studio)
+- [x] Vieleicht noch einwenig in Javascript reinschauen.
+
+## 4. Tag - 13.11.2026
+- [ ] Modul 162 weiter arbeiten
+- [ ] Kryptologie weiter arbeiten
+- [ ] Javascript
